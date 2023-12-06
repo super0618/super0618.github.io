@@ -436,3 +436,10 @@ h6,
 	max-width: 240px;
 	margin: 20px auto;
 }
+
+.linkitem {
+	padding: 5px 10px 10px;
+	background-color: #ccc;
+	border-radius: 50%;
+	margin: 0px 5px;
+}
