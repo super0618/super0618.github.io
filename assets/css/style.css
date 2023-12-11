@@ -303,8 +303,9 @@ h6,
 
 .imgavatar {
 	display: block;
-	max-width: 240px;
-	margin: 20px auto;
+	max-width: 220px;
+	margin: 20px auto 30px 70px;
+	border-radius: 5px;
 }
 
 .linkitem {
